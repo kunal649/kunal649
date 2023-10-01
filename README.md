@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kunal
-- 👀 I’m interested in frontend, backend!
+- 👀 I’m currently interested in frontend, backend!
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...there's no way to reach me!lol
