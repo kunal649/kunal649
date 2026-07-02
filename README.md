@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=62&duration=100&pause=9999999&color=F0ECE4&center=true&vCenter=true&repeat=false&width=760&height=105&lines=KUNAL+VASHISHT" alt="Kunal Vashisht"/>
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=20&duration=100&pause=9999999&color=C9A84C&center=true&vCenter=true&repeat=false&width=760&height=34&lines=Backend+Engineer+·+Runtime+Systems+·+Open+Source" alt="subtitle"/>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Backend Banner"/>
+</p>
 
 <br/>
 
@@ -47,14 +49,6 @@
 </div>
 
 <br/>
-
-### `// open source`
-
-<div align="center">
-
-[![](https://img.shields.io/badge/mapeditor%2Ftiled-C%2B%2B%20%7C%20Qt-C9A84C?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/mapeditor/tiled)&ensp;[![](https://img.shields.io/github/stars/mapeditor/tiled?style=for-the-badge&color=C9A84C&labelColor=0a0a0f&logo=github&logoColor=C9A84C&label=%E2%AD%90+stars)](https://github.com/mapeditor/tiled)&ensp;[![](https://img.shields.io/badge/PRs%20merged-4-4ade80?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mapeditor/tiled/pulls?q=author%3Akunal649+is%3Amerged)&ensp;[![](https://img.shields.io/badge/credited-v1.12.1%20release-4ade80?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mapeditor/tiled/releases/tag/v1.12.1)
-
-</div>
 
 --
 
