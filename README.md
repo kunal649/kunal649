@@ -1,13 +1,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=62&duration=100&pause=9999999&color=F0ECE4&center=true&vCenter=true&repeat=false&width=760&height=105&lines=KUNAL+VASHISHT"/>
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=62&duration=100&pause=9999999&color=2A2318&center=true&vCenter=true&repeat=false&width=760&height=105&lines=KUNAL+VASHISHT"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=62&duration=100&pause=9999999&color=F0ECE4&center=true&vCenter=true&repeat=false&width=760&height=105&lines=KUNAL+VASHISHT" alt="Kunal Vashisht"/>
 </picture>
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Backend Banner"/>
+  <img src="./assets/banner.svg" width="100%" alt="Backend Banner"/>
 </p>
 
 <br/>
@@ -58,18 +56,16 @@
 node.js     event loop  ·  streams & backpressure  ·  worker threads
             child_process  ·  IPC  ·  libuv internals
 
-backend     express.js  ·  REST API design  ·  socket.io  ·  JWT  ·  multer
+backend     REST API design  ·  express.js  ·  socket.io  ·  JWT  · nginx
 
 data        postgresql  —  joins  ·  transactions  ·  indexing
 
-systems     C++  ·  Qt framework  ·  large codebase navigation
+systems     C++  ·  large codebase navigation
 
 tools       git  ·  linux / fedora  ·  docker  ·  postman  ·  pm2
 ```
 
 <br/>
-
----
 
 ---
 
