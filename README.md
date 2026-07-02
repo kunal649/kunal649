@@ -1,25 +1,22 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Kunal Vashisht"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=62&duration=100&pause=9999999&color=F0ECE4&center=true&vCenter=true&repeat=false&width=820&height=110&lines=KUNAL+VASHISHT"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=62&duration=100&pause=9999999&color=2a2318&center=true&vCenter=true&repeat=false&width=820&height=110&lines=KUNAL+VASHISHT"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=62&duration=100&pause=9999999&color=F0ECE4&center=true&vCenter=true&repeat=false&width=820&height=110&lines=KUNAL+VASHISHT" height="110" alt="Kunal Vashisht"/>
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=20&duration=100&pause=9999999&color=C9A84C&center=true&vCenter=true&repeat=false&width=820&height=38&lines=Backend+Engineer+%C2%B7+Systems+Thinker+%C2%B7+OSS+Contributor" height="38" alt="subtitle"/>
+
+<br/>
+
+[![](https://img.shields.io/badge/gmail-kunalv672005-C9A84C?style=flat-square&logo=gmail&logoColor=C9A84C&labelColor=0a0a0f)](mailto:kunalv672005@gmail.com)&ensp;[![](https://img.shields.io/badge/linkedin-kunal--vashisht-C9A84C?style=flat-square&logo=linkedin&logoColor=C9A84C&labelColor=0a0a0f)](https://linkedin.com/in/kunal-vashisht-352mk)&ensp;[![](https://img.shields.io/badge/portfolio-kunal649.github.io-C9A84C?style=flat-square&logo=vercel&logoColor=C9A84C&labelColor=0a0a0f)](https://kunal649.github.io/portfolio)&ensp;![](https://komarev.com/ghpvc/?username=kunal649&style=flat-square&color=C9A84C&labelColor=0a0a0f&label=views)
+
 </div>
 
 <br/>
 
-<div align="center">
-
-[![](https://img.shields.io/badge/kunalv672005%40gmail.com-0a0a0f?style=flat-square&logo=gmail&logoColor=C9A84C)](mailto:kunalv672005@gmail.com)&ensp;[![](https://img.shields.io/badge/linkedin-0a0a0f?style=flat-square&logo=linkedin&logoColor=C9A84C&label=kunal--vashisht)](https://linkedin.com/in/kunal-vashisht-352mk)&ensp;[![](https://img.shields.io/badge/portfolio-0a0a0f?style=flat-square&logo=vercel&logoColor=C9A84C&label=kunal649.github.io)](https://kunal649.github.io/portfolio)&ensp;![](https://komarev.com/ghpvc/?username=kunal649&style=flat-square&color=C9A84C&labelColor=0a0a0f&label=views)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-```
-I build the parts of software you never see —
-the servers, event loops, and APIs that quietly hold everything up.
-```
+> *The frontend gets the applause. I keep the lights on.*
 
 <br/>
 
@@ -27,24 +24,13 @@ the servers, event loops, and APIs that quietly hold everything up.
 
 ### `// open source`
 
-```
-$ git log --oneline mapeditor/tiled
+<div align="center">
 
-a4f2c1e  fix: selection mode indicator not updating on Alt-key object moves   #4434  ✓ merged
-3b8d9f7  fix: status bar displaying rounded pixel coords instead of floored   #4426  ✓ merged
-9e1a2d4  fix: erratic zoom behavior traced to zoom event handler root cause   #4409  ✓ merged
-7c5e8b1  feat: add error dialog on export-to-image save failure               #4397  ✓ merged
+[![](https://img.shields.io/badge/mapeditor%2Ftiled-C%2B%2B%20%7C%20Qt-C9A84C?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/mapeditor/tiled)&ensp;[![](https://img.shields.io/github/stars/mapeditor/tiled?style=for-the-badge&color=C9A84C&labelColor=0a0a0f&logo=github&logoColor=C9A84C&label=%E2%AD%90+stars)](https://github.com/mapeditor/tiled)&ensp;[![](https://img.shields.io/badge/PRs%20merged-4-4ade80?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mapeditor/tiled/pulls?q=author%3Akunal649+is%3Amerged)&ensp;[![](https://img.shields.io/badge/credited-v1.12.1%20release-4ade80?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mapeditor/tiled/releases/tag/v1.12.1)
 
-─────────────────────────────────────────────────────────────────────────────────────────────
-repo    →  mapeditor/tiled   ⭐ 12,500+ stars   C++ / Qt
-credit  →  Tiled v1.12.1 official release changelog
-note    →  navigated a production C++ codebase cold, zero prior Qt experience
-           all 4 PRs reviewed by core maintainers and merged to main
-```
+</div>
 
-<br/>
-
----
+--
 
 ### `// runtime`
 
@@ -64,67 +50,6 @@ tools       git  ·  linux / fedora  ·  docker  ·  postman  ·  pm2
 <br/>
 
 ---
-
-### `// projects`
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[CLI Adjust](https://github.com/kunal649/cli-adjust)**
-
-Systems-level Node.js CLI — process spawning, stream-based I/O, binary generation, IPC. Built to explore libuv-level Node, not framework surface.
-
-`Node.js` `Commander.js` `child_process` `Streams`
-
-</td>
-<td width="50%" valign="top">
-
-**[Mini Instagram API](https://github.com/kunal649/mini-instagram-backend)**
-
-Backend-only REST API. JWT auth with token refresh, file upload pipeline, relational data modeling — users, posts, follows, likes.
-
-`Express.js` `PostgreSQL` `JWT` `Multer`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Twokie](https://github.com/kunal649/twokie)**
-
-Real-time chat. WebSocket lifecycle management, room logic, concurrent connection handling, event-driven architecture.
-
-`Node.js` `Socket.io` `WebSockets`
-
-</td>
-<td width="50%" valign="top">
-
-**[PaperlessPulse](https://github.com/kunal649/paperlesspulse)**
-
-Sole backend engineer under hackathon constraints. Document management system with real-time ops, API design from scratch.
-
-`Node.js` `Express.js` `REST API`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-### `// signal`
-
-```
-open to   →  remote backend · software engineering internships
-targets   →  uk  ·  netherlands  ·  singapore  ·  uae  ·  germany
-status    →  actively applying · available immediately
-```
-
-<br/>
 
 ---
 
