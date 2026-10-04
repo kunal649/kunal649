@@ -1,135 +1,36 @@
-<div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Kunal Vashisht"/>
-</div>
+Backend and systems engineer. Node.js, TypeScript and C++.
 
 <br/>
 
-<div align="center">
+Intern @Indiabulls Securities, building an error-tracking SDK in TypeScript from scratch for their trading platform. Breadcrumbs, console, fetch and XHR instrumentation, unhandled rejection capture.
 
-[![](https://img.shields.io/badge/kunalv672005%40gmail.com-0a0a0f?style=flat-square&logo=gmail&logoColor=C9A84C)](mailto:kunalv672005@gmail.com)&ensp;[![](https://img.shields.io/badge/linkedin-0a0a0f?style=flat-square&logo=linkedin&logoColor=C9A84C&label=kunal--vashisht)](https://linkedin.com/in/kunal-vashisht-352mk)&ensp;[![](https://img.shields.io/badge/portfolio-0a0a0f?style=flat-square&logo=vercel&logoColor=C9A84C&label=kunal649.github.io)](https://kunal649.github.io/portfolio)&ensp;![](https://komarev.com/ghpvc/?username=kunal649&style=flat-square&color=C9A84C&labelColor=0a0a0f&label=views)
+Open source: 4 merged PRs in [mapeditor/tiled](https://github.com/mapeditor/tiled) ([#4434](https://github.com/mapeditor/tiled/pull/4434), [#4426](https://github.com/mapeditor/tiled/pull/4426), [#4409](https://github.com/mapeditor/tiled/pull/4409), [#4397](https://github.com/mapeditor/tiled/pull/4397)), credited in the [v1.12.1 release](https://github.com/mapeditor/tiled/releases/tag/v1.12.1).
 
-</div>
-
-<br/>
-
----
+<!-- Add after your first Sentry PR is open:
+Open source: contributing to [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - [#PR_NUMBER](https://github.com/getsentry/sentry-javascript/pull/PR_NUMBER)
+-->
 
 <br/>
 
-```
-I build the parts of software you never see —
-the servers, event loops, and APIs that quietly hold everything up.
-```
+<img src="https://cdn.simpleicons.org/typescript/B8843F" height="30" alt="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/B8843F" height="30" alt="Node.js"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/B8843F" height="30" alt="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/B8843F" height="30" alt="C++"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/express/B8843F" height="30" alt="Express"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/B8843F" height="30" alt="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/socketdotio/B8843F" height="30" alt="Socket.io"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/qt/B8843F" height="30" alt="Qt"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/B8843F" height="30" alt="Docker"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/B8843F" height="30" alt="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fedora/B8843F" height="30" alt="Fedora"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/B8843F" height="30" alt="Postman"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pm2/B8843F" height="30" alt="PM2"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-CleverTap-B8843F?style=flat-square" alt="CleverTap"/>
 
 <br/>
 
----
-
-### `// open source`
-
-```
-$ git log --oneline mapeditor/tiled
-
-a4f2c1e  fix: selection mode indicator not updating on Alt-key object moves   #4434  ✓ merged
-3b8d9f7  fix: status bar displaying rounded pixel coords instead of floored   #4426  ✓ merged
-9e1a2d4  fix: erratic zoom behavior traced to zoom event handler root cause   #4409  ✓ merged
-7c5e8b1  feat: add error dialog on export-to-image save failure               #4397  ✓ merged
-
-─────────────────────────────────────────────────────────────────────────────────────────────
-repo    →  mapeditor/tiled   ⭐ 12,500+ stars   C++ / Qt
-credit  →  Tiled v1.12.1 official release changelog
-note    →  navigated a production C++ codebase cold, zero prior Qt experience
-           all 4 PRs reviewed by core maintainers and merged to main
-```
+Open to internships - [kunalv672005@gmail.com](mailto:kunalv672005@gmail.com)
 
 <br/>
 
----
-
-### `// runtime`
-
-```
-node.js     event loop  ·  streams & backpressure  ·  worker threads
-            child_process  ·  IPC  ·  libuv internals
-
-backend     express.js  ·  REST API design  ·  socket.io  ·  JWT  ·  multer
-
-data        postgresql  —  joins  ·  transactions  ·  indexing
-
-systems     C++  ·  Qt framework  ·  large codebase navigation
-
-tools       git  ·  linux / fedora  ·  docker  ·  postman  ·  pm2
-```
-
-<br/>
-
----
-
-### `// projects`
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[CLI Adjust](https://github.com/kunal649/cli-adjust)**
-
-Systems-level Node.js CLI — process spawning, stream-based I/O, binary generation, IPC. Built to explore libuv-level Node, not framework surface.
-
-`Node.js` `Commander.js` `child_process` `Streams`
-
-</td>
-<td width="50%" valign="top">
-
-**[Mini Instagram API](https://github.com/kunal649/mini-instagram-backend)**
-
-Backend-only REST API. JWT auth with token refresh, file upload pipeline, relational data modeling — users, posts, follows, likes.
-
-`Express.js` `PostgreSQL` `JWT` `Multer`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Twokie](https://github.com/kunal649/twokie)**
-
-Real-time chat. WebSocket lifecycle management, room logic, concurrent connection handling, event-driven architecture.
-
-`Node.js` `Socket.io` `WebSockets`
-
-</td>
-<td width="50%" valign="top">
-
-**[PaperlessPulse](https://github.com/kunal649/paperlesspulse)**
-
-Sole backend engineer under hackathon constraints. Document management system with real-time ops, API design from scratch.
-
-`Node.js` `Express.js` `REST API`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-### `// signal`
-
-```
-open to   →  remote backend · software engineering internships
-targets   →  uk  ·  netherlands  ·  singapore  ·  uae  ·  germany
-status    →  actively applying · available immediately
-```
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>building the parts you never see</sub>
-
-</div>
+![views](https://komarev.com/ghpvc/?username=kunal649&style=flat-square&color=B8843F&labelColor=1c1610&label=profile+views)
