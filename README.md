@@ -7,9 +7,13 @@ Backend and systems engineer.
 Intern @Indiabulls Securities - building an error-tracking SDK in TypeScript from scratch for their trading platform. 
 
 Open source: <br/>
+- credited in the [Tiled v1.12.1 release](https://github.com/mapeditor/tiled/releases/tag/v1.12.1).
 - 4 merged PRs in [mapeditor/tiled](https://github.com/mapeditor/tiled), ([#4434](https://github.com/mapeditor/tiled/pull/4434), [#4426](https://github.com/mapeditor/tiled/pull/4426), [#4409](https://github.com/mapeditor/tiled/pull/4409), 
 [#4397](https://github.com/mapeditor/tiled/pull/4397)), 
-- credited in the [v1.12.1 release](https://github.com/mapeditor/tiled/releases/tag/v1.12.1).
+
+- credited in the [Sentry javascript SDK v11.8.0 release](https://github.com/getsentry/sentry-javascript/releases/tag/11.8.0)
+
+- PR merged in [sentry-sdk @core package](https://github.com/getsentry/sentry-javascript/tree/develop/packages/core), [#25246](https://github.com/getsentry/sentry-javascript/pull/25246)
 
 - open discussion in [get-sentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - [createReduxEnhancer: how to capture rejected createAsyncThunk actions](https://github.com/getsentry/sentry-javascript/discussions/24852)
 
@@ -40,4 +44,4 @@ Open to internships - [kunalv672005@gmail.com](mailto:kunalv672005@gmail.com)
 
 <br/>
 
-![views](https://komarev.com/ghpvc/?username=kunal649&style=flat-square&color=B8843F&labelColor=1c1610&label=profile+views)
+![views](https://komarev.com/ghpvc/?username=kunal649&style=flat-square&color=green&labelColor=1c1610&label=profile+views)
